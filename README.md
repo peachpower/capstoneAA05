@@ -1,9 +1,10 @@
-# capstoneAA05
+# CapstoneAA05
 
-Preamble
+# Preamble
 
 Amazon Alexa is a versatile virtual assistant that can also control several smart devices. Applications such as home automation, remote monitoring and to-do-list execution can be integrated with Alexa. Smart cameras are one of the most useful artificial intelligence (AI)-powered devices and by taking advantage of AI, one can determine abnormalities. In this project, using Alexa Skills Kit, applications will be developed that are AI-based and use integrated sensors to remotely monitor and control the states of the in-house devices.
-Objective
+
+# Objective
 
 -To design, develop and test an integrated system for monitoring and control of various components such as appliances and gadgets as per the specifications. -The typical applications (such as temperature control, water leak detection, motion detection and power usage) within a typical house are to be monitored and controlled in one system and effectively communicate with remote devices using AI-powered Alexa - To simulate (if needed) and validate the workings of the monitor/controller through the combination of software simulation and embedded implementation.
 Partial Specifications
